@@ -1,0 +1,313 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\C#_Project\\web\\Lab2\\Lab2\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Lab2.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Lab2.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\C#_Project\\web\\Lab2\\Lab2\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\C#_Project\\web\\Lab2\\Lab2\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\C#_Project\\web\\Lab2\\Lab2\\wwwroot\\images\\2296fd60-fe73-4f01-80ee-68748c6e1d58_z4877950367319_203af0de9c165336b93495fa49b3b6cb.jpg",
+      "PackagePath": "staticwebassets\\images\\2296fd60-fe73-4f01-80ee-68748c6e1d58_z4877950367319_203af0de9c165336b93495fa49b3b6cb.jpg"
+    },
+    {
+      "Id": "E:\\C#_Project\\web\\Lab2\\Lab2\\wwwroot\\images\\2d9d6323-ce92-4d20-8a06-3b7f4c2e3991_53341620648_42b7aa4fa6_k.jpg",
+      "PackagePath": "staticwebassets\\images\\2d9d6323-ce92-4d20-8a06-3b7f4c2e3991_53341620648_42b7aa4fa6_k.jpg"
+    },
+    {
+      "Id": "E:\\C#_Project\\web\\Lab2\\Lab2\\wwwroot\\images\\4d692a55-9098-4ae1-9a1e-67536da7f244_z4877950367319_203af0de9c165336b93495fa49b3b6cb.jpg",
+      "PackagePath": "staticwebassets\\images\\4d692a55-9098-4ae1-9a1e-67536da7f244_z4877950367319_203af0de9c165336b93495fa49b3b6cb.jpg"
+    },
+    {
+      "Id": "E:\\C#_Project\\web\\Lab2\\Lab2\\wwwroot\\images\\5a072cc8-628b-4815-8069-632cf047ef63_IMG_1703438522266_1703439169540.jpg",
+      "PackagePath": "staticwebassets\\images\\5a072cc8-628b-4815-8069-632cf047ef63_IMG_1703438522266_1703439169540.jpg"
+    },
+    {
+      "Id": "E:\\C#_Project\\web\\Lab2\\Lab2\\wwwroot\\images\\6977cc40-b5b7-4718-9b14-00af71689cd6_unnamed.png",
+      "PackagePath": "staticwebassets\\images\\6977cc40-b5b7-4718-9b14-00af71689cd6_unnamed.png"
+    },
+    {
+      "Id": "E:\\C#_Project\\web\\Lab2\\Lab2\\wwwroot\\images\\72f7a4e2-6e26-4328-9800-58e8bb572b9a_Fakerr.png",
+      "PackagePath": "staticwebassets\\images\\72f7a4e2-6e26-4328-9800-58e8bb572b9a_Fakerr.png"
+    },
+    {
+      "Id": "E:\\C#_Project\\web\\Lab2\\Lab2\\wwwroot\\images\\98559199-ca21-498f-8e1f-1d6051e8e635_53341620648_42b7aa4fa6_k.jpg",
+      "PackagePath": "staticwebassets\\images\\98559199-ca21-498f-8e1f-1d6051e8e635_53341620648_42b7aa4fa6_k.jpg"
+    },
+    {
+      "Id": "E:\\C#_Project\\web\\Lab2\\Lab2\\wwwroot\\images\\b173aa06-27ad-44b6-bbf6-bf553376b108_Student card (Thẻ sinh viên).png",
+      "PackagePath": "staticwebassets\\images\\b173aa06-27ad-44b6-bbf6-bf553376b108_Student card (Thẻ sinh viên).png"
+    },
+    {
+      "Id": "E:\\C#_Project\\web\\Lab2\\Lab2\\wwwroot\\images\\c3e07a49-b246-448c-95e8-b3fd452333ef_53341620648_42b7aa4fa6_k.jpg",
+      "PackagePath": "staticwebassets\\images\\c3e07a49-b246-448c-95e8-b3fd452333ef_53341620648_42b7aa4fa6_k.jpg"
+    },
+    {
+      "Id": "E:\\C#_Project\\web\\Lab2\\Lab2\\wwwroot\\images\\d7f2f658-20d0-4c28-a347-15f589e23733_IMG_1703438522305_1703439170690.jpg",
+      "PackagePath": "staticwebassets\\images\\d7f2f658-20d0-4c28-a347-15f589e23733_IMG_1703438522305_1703439170690.jpg"
+    },
+    {
+      "Id": "E:\\C#_Project\\web\\Lab2\\Lab2\\wwwroot\\images\\ee081bbe-65bc-484f-8b80-a3f926947300_Ảnh chụp màn hình 2025-03-14 212829.png",
+      "PackagePath": "staticwebassets\\images\\ee081bbe-65bc-484f-8b80-a3f926947300_Ảnh chụp màn hình 2025-03-14 212829.png"
+    },
+    {
+      "Id": "E:\\C#_Project\\web\\Lab2\\Lab2\\wwwroot\\images\\f31b2f38-a5d2-4dcd-9412-8a2f307ab21e_Ảnh chụp màn hình 2025-03-15 153511.png",
+      "PackagePath": "staticwebassets\\images\\f31b2f38-a5d2-4dcd-9412-8a2f307ab21e_Ảnh chụp màn hình 2025-03-15 153511.png"
+    },
+    {
+      "Id": "E:\\C#_Project\\web\\Lab2\\Lab2\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\C#_Project\\web\\Lab2\\Lab2\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\C#_Project\\web\\Lab2\\Lab2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\C#_Project\\web\\Lab2\\Lab2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\C#_Project\\web\\Lab2\\Lab2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\C#_Project\\web\\Lab2\\Lab2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\C#_Project\\web\\Lab2\\Lab2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\C#_Project\\web\\Lab2\\Lab2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\C#_Project\\web\\Lab2\\Lab2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\C#_Project\\web\\Lab2\\Lab2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\C#_Project\\web\\Lab2\\Lab2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\C#_Project\\web\\Lab2\\Lab2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\C#_Project\\web\\Lab2\\Lab2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\C#_Project\\web\\Lab2\\Lab2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\C#_Project\\web\\Lab2\\Lab2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\C#_Project\\web\\Lab2\\Lab2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\C#_Project\\web\\Lab2\\Lab2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\C#_Project\\web\\Lab2\\Lab2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\C#_Project\\web\\Lab2\\Lab2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\C#_Project\\web\\Lab2\\Lab2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\C#_Project\\web\\Lab2\\Lab2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\C#_Project\\web\\Lab2\\Lab2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\C#_Project\\web\\Lab2\\Lab2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\C#_Project\\web\\Lab2\\Lab2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\C#_Project\\web\\Lab2\\Lab2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\C#_Project\\web\\Lab2\\Lab2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\C#_Project\\web\\Lab2\\Lab2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\C#_Project\\web\\Lab2\\Lab2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\C#_Project\\web\\Lab2\\Lab2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\C#_Project\\web\\Lab2\\Lab2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\C#_Project\\web\\Lab2\\Lab2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\C#_Project\\web\\Lab2\\Lab2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\C#_Project\\web\\Lab2\\Lab2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\C#_Project\\web\\Lab2\\Lab2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\C#_Project\\web\\Lab2\\Lab2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\C#_Project\\web\\Lab2\\Lab2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\C#_Project\\web\\Lab2\\Lab2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\C#_Project\\web\\Lab2\\Lab2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\C#_Project\\web\\Lab2\\Lab2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\C#_Project\\web\\Lab2\\Lab2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\C#_Project\\web\\Lab2\\Lab2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\C#_Project\\web\\Lab2\\Lab2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\C#_Project\\web\\Lab2\\Lab2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\C#_Project\\web\\Lab2\\Lab2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\C#_Project\\web\\Lab2\\Lab2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\C#_Project\\web\\Lab2\\Lab2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\C#_Project\\web\\Lab2\\Lab2\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\C#_Project\\web\\Lab2\\Lab2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\C#_Project\\web\\Lab2\\Lab2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\C#_Project\\web\\Lab2\\Lab2\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\C#_Project\\web\\Lab2\\Lab2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\C#_Project\\web\\Lab2\\Lab2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\C#_Project\\web\\Lab2\\Lab2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\C#_Project\\web\\Lab2\\Lab2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\C#_Project\\web\\Lab2\\Lab2\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\C#_Project\\web\\Lab2\\Lab2\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\C#_Project\\web\\Lab2\\Lab2\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\C#_Project\\web\\Lab2\\Lab2\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Lab2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Lab2.props",
+      "PackagePath": "build\\Lab2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Lab2.props",
+      "PackagePath": "buildMultiTargeting\\Lab2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Lab2.props",
+      "PackagePath": "buildTransitive\\Lab2.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
