@@ -62,9 +62,21 @@ namespace Lab2.Areas.Admin.Controllers
             return imageUrls;
         }
 
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(string searchString)
         {
+            ViewBag.SearchString = searchString;
             var products = await _productRepository.GetAllAsync();
+
+            if (!string.IsNullOrEmpty(searchString))
+            {
+                searchString = searchString.ToLower();
+                products = products.Where(p =>
+                    p.Name.ToLower().Contains(searchString) ||
+                    p.Description.ToLower().Contains(searchString) ||
+                    p.Category?.Name.ToLower().Contains(searchString) == true
+                ).ToList();
+            }
+
             return View(products);
         }
 
