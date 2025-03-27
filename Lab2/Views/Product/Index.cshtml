@@ -1,30 +1,40 @@
 ﻿@model IEnumerable<Lab2.Models.Product>
-<h2>Products</h2>
-<table class="table">
-    <thead>
-        <tr>
-            <th>Name</th>
-            <th>Price</th>
-            <th>Description</th>
-            <th>Category</th>
-            <th>Actions</th>
-        </tr>
-    </thead>
-    <tbody>
-        <a asp-action="Add">Create New</a>
-    @foreach (var product in Model)
-     {
-        <tr>
+@{
+    ViewData["Title"] = "Danh sách sản phẩm";
+}
+
+<div class="container">
+    <h2>Danh sách sản phẩm</h2>
+
+    <p>
+        <a asp-action="Add" class="btn btn-primary">Thêm sản phẩm mới</a>
+    </p>
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Tên sản phẩm</th>
+                <th>Giá</th>
+                <th>Mô tả</th>
+                <th>Danh mục</th>
+                <th>Thao tác</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var product in Model)
+            {
+                <tr>
                     <td>@product.Name</td>
-                    <td>@product.Price</td>
+                    <td>@product.Price.ToString("N0") đ</td>
                     <td>@product.Description</td>
                     <td>@product.Category?.Name</td>
                     <td>
-                        <a asp-action="Display" asp-route-id="@product.Id">View</a> |
-                        <a asp-action="Update" asp-route-id="@product.Id">Edit</a> |
-                        <a asp-action="Delete" asp-route-id="@product.Id">Delete</a>
+                        <a asp-action="Display" asp-route-id="@product.Id" class="btn btn-info btn-sm">Xem</a>
+                        <a asp-action="Update" asp-route-id="@product.Id" class="btn btn-warning btn-sm">Sửa</a>
+                        <a asp-action="Delete" asp-route-id="@product.Id" class="btn btn-danger btn-sm">Xóa</a>
                     </td>
-        </tr>
-    }
-    </tbody>
-</table>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
