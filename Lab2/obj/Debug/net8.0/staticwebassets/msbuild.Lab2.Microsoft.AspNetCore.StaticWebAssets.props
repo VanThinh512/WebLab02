@@ -64,6 +64,22 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\2d9d6323-ce92-4d20-8a06-3b7f4c2e3991_53341620648_42b7aa4fa6_k.jpg))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\377c7217-e0e5-490f-8c2d-ceaf1d646dee_Ảnh chụp màn hình 2025-03-20 130823.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>Lab2</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Lab2</BasePath>
+      <RelativePath>images/377c7217-e0e5-490f-8c2d-ceaf1d646dee_Ảnh chụp màn hình 2025-03-20 130823.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\377c7217-e0e5-490f-8c2d-ceaf1d646dee_Ảnh chụp màn hình 2025-03-20 130823.png))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\4d692a55-9098-4ae1-9a1e-67536da7f244_z4877950367319_203af0de9c165336b93495fa49b3b6cb.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>Lab2</SourceId>
@@ -95,6 +111,22 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\5a072cc8-628b-4815-8069-632cf047ef63_IMG_1703438522266_1703439169540.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\633ca8c3-a09e-410e-8e5a-d77484910e86_Ảnh chụp màn hình 2025-03-25 204731.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>Lab2</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Lab2</BasePath>
+      <RelativePath>images/633ca8c3-a09e-410e-8e5a-d77484910e86_Ảnh chụp màn hình 2025-03-25 204731.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\633ca8c3-a09e-410e-8e5a-d77484910e86_Ảnh chụp màn hình 2025-03-25 204731.png))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\6977cc40-b5b7-4718-9b14-00af71689cd6_unnamed.png))">
       <SourceType>Package</SourceType>
@@ -191,6 +223,38 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\d7f2f658-20d0-4c28-a347-15f589e23733_IMG_1703438522305_1703439170690.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\e08fc6d6-de0b-42f2-a82c-1e7db3348462_Ảnh chụp màn hình 2025-03-18 142936.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>Lab2</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Lab2</BasePath>
+      <RelativePath>images/e08fc6d6-de0b-42f2-a82c-1e7db3348462_Ảnh chụp màn hình 2025-03-18 142936.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\e08fc6d6-de0b-42f2-a82c-1e7db3348462_Ảnh chụp màn hình 2025-03-18 142936.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\e89c2e0d-42d0-479f-a002-0a5c828b1035_Money transfer receipt (Biên lai chuyển tiền) .png))">
+      <SourceType>Package</SourceType>
+      <SourceId>Lab2</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Lab2</BasePath>
+      <RelativePath>images/e89c2e0d-42d0-479f-a002-0a5c828b1035_Money transfer receipt (Biên lai chuyển tiền) .png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\e89c2e0d-42d0-479f-a002-0a5c828b1035_Money transfer receipt (Biên lai chuyển tiền) .png))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\ee081bbe-65bc-484f-8b80-a3f926947300_Ảnh chụp màn hình 2025-03-14 212829.png))">
       <SourceType>Package</SourceType>

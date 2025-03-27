@@ -1,0 +1,58 @@
+@model Lab2.Models.Product
+@using Microsoft.AspNetCore.Mvc.Rendering
+@{
+    ViewData["Title"] = "Thêm sản phẩm mới";
+}
+
+<div class="container mt-4">
+    <h1>Thêm sản phẩm mới</h1>
+    
+    <form asp-area="Admin" asp-controller="ProductsManager" asp-action="Add" enctype="multipart/form-data" method="post">
+        <div asp-validation-summary="All" class="text-danger"></div>
+        
+        <div class="form-group mb-3">
+            <label asp-for="Name" class="form-label">Tên sản phẩm</label>
+            <input asp-for="Name" class="form-control" />
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+        
+        <div class="form-group mb-3">
+            <label asp-for="Price" class="form-label">Giá sản phẩm</label>
+            <input asp-for="Price" class="form-control" />
+            <span asp-validation-for="Price" class="text-danger"></span>
+        </div>
+        
+        <div class="form-group mb-3">
+            <label asp-for="Description" class="form-label">Mô tả sản phẩm</label>
+            <textarea asp-for="Description" class="form-control" rows="4"></textarea>
+            <span asp-validation-for="Description" class="text-danger"></span>
+        </div>
+        
+        <div class="form-group mb-3">
+            <label asp-for="CategoryId" class="form-label">Danh mục</label>
+            <select asp-for="CategoryId" asp-items="ViewBag.Categories" class="form-control">
+                <option value="">-- Chọn danh mục --</option>
+            </select>
+            <span asp-validation-for="CategoryId" class="text-danger"></span>
+        </div>
+        
+        <div class="form-group mb-3">
+            <label class="form-label">Hình ảnh chính</label>
+            <input type="file" name="imageUrl" class="form-control" accept="image/*" />
+        </div>
+        
+        <div class="form-group mb-3">
+            <label class="form-label">Hình ảnh phụ</label>
+            <input type="file" name="imageUrls" multiple class="form-control" accept="image/*" />
+        </div>
+        
+        <div class="mt-4">
+            <button type="submit" class="btn btn-primary">Thêm sản phẩm</button>
+            <a asp-area="Admin" asp-controller="ProductsManager" asp-action="Index" class="btn btn-secondary">Quay lại</a>
+        </div>
+    </form>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+} 

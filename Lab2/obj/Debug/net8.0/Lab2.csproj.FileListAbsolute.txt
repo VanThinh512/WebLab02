@@ -315,3 +315,4 @@ E:\C#_Project\web\Lab2\Lab2\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3
 E:\C#_Project\web\Lab2\Lab2\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
 E:\C#_Project\web\Lab2\Lab2\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
 E:\C#_Project\web\Lab2\Lab2\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\C#_Project\web\Lab2\Lab2\obj\Debug\net8.0\Lab2.sourcelink.json

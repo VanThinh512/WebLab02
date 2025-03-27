@@ -1,0 +1,48 @@
+﻿@model IEnumerable<Lab2.Models.Product>
+
+@{
+    ViewData["Title"] = "Quản lý sản phẩm";
+}
+
+<div class="container mt-4">
+    <h2>Quản lý sản phẩm</h2>
+    
+    <div class="mb-3">
+        <a asp-area="Admin" asp-controller="ProductsManager" asp-action="Add" class="btn btn-primary">Thêm sản phẩm mới</a>
+    </div>
+    
+    <table class="table table-striped table-bordered">
+        <thead class="table-dark">
+            <tr>
+                <th>Tên sản phẩm</th>
+                <th>Giá</th>
+                <th>Mô tả</th>
+                <th>Danh mục</th>
+                <th>Hình ảnh</th>
+                <th>Thao tác</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var product in Model)
+            {
+                <tr>
+                    <td>@product.Name</td>
+                    <td>@product.Price.ToString("N0") đ</td>
+                    <td>@(product.Description?.Length > 50 ? product.Description.Substring(0, 50) + "..." : product.Description)</td>
+                    <td>@product.Category?.Name</td>
+                    <td>
+                        @if (!string.IsNullOrEmpty(product.ImageUrl))
+                        {
+                            <img src="@product.ImageUrl" alt="@product.Name" style="width: 50px; height: 50px; object-fit: cover;" />
+                        }
+                    </td>
+                    <td>
+                        <a asp-area="Admin" asp-controller="ProductsManager" asp-action="Details" asp-route-id="@product.Id" class="btn btn-info btn-sm">Chi tiết</a>
+                        <a asp-area="Admin" asp-controller="ProductsManager" asp-action="Edit" asp-route-id="@product.Id" class="btn btn-warning btn-sm">Sửa</a>
+                        <a asp-area="Admin" asp-controller="ProductsManager" asp-action="Delete" asp-route-id="@product.Id" class="btn btn-danger btn-sm">Xóa</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
