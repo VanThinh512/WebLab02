@@ -11,13 +11,14 @@ namespace Lab2.Controllers
         private readonly ICategoryRepository _categoryRepository;
         private readonly IWebHostEnvironment _webHostEnvironment;
 
+
         public ProductController(IProductRepository productRepository, ICategoryRepository categoryRepository, IWebHostEnvironment webHostEnvironment)
         {
             _productRepository = productRepository;
             _categoryRepository = categoryRepository;
             _webHostEnvironment = webHostEnvironment;
         }
-
+        
         private async Task<string> SaveImage(IFormFile image)
         {
             if (image != null && image.Length > 0)
@@ -53,9 +54,21 @@ namespace Lab2.Controllers
             return imageUrls;
         }
 
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(string searchString)
         {
+            ViewBag.SearchString = searchString;
             var products = await _productRepository.GetAllAsync();
+
+            if (!string.IsNullOrEmpty(searchString))
+            {
+                searchString = searchString.ToLower();
+                products = products.Where(p =>
+                    p.Name.ToLower().Contains(searchString) ||
+                    p.Description.ToLower().Contains(searchString) ||
+                    p.Category?.Name.ToLower().Contains(searchString) == true
+                ).ToList();
+            }
+
             return View(products);
         }
 
