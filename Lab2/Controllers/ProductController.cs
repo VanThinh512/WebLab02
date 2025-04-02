@@ -11,13 +11,14 @@ namespace Lab2.Controllers
         private readonly ICategoryRepository _categoryRepository;
         private readonly IWebHostEnvironment _webHostEnvironment;
 
+
         public ProductController(IProductRepository productRepository, ICategoryRepository categoryRepository, IWebHostEnvironment webHostEnvironment)
         {
             _productRepository = productRepository;
             _categoryRepository = categoryRepository;
             _webHostEnvironment = webHostEnvironment;
         }
-
+        
         private async Task<string> SaveImage(IFormFile image)
         {
             if (image != null && image.Length > 0)
